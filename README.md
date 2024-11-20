@@ -1,10 +1,1 @@
-# xfg-frame-archetype - DDD 脚手架 - @小傅哥 v2.2
-
-- docker 使用文档：[https://bugstack.cn/md/road-map/docker.html](https://bugstack.cn/md/road-map/docker.html)
-- DDD 教程；
-  - [DDD 概念理论](https://bugstack.cn/md/road-map/ddd-guide-01.html)
-  - [DDD 建模方法](https://bugstack.cn/md/road-map/ddd-guide-02.html)
-  - [DDD 工程模型](https://bugstack.cn/md/road-map/ddd-guide-03.html)
-  - [DDD 架构设计](https://bugstack.cn/md/road-map/ddd.html)
-  - [DDD 建模案例](https://bugstack.cn/md/road-map/ddd-model.html)
-
+随着互联网行业的快速发展，各类电商平台、外卖服务、出行平台等业务场景不断涌现，企业面临着日益激烈的市场竞争。为了提升用户活跃度、增加用户粘性、促进销售转化，企业需要一个高效、灵活、可扩展的营销平台来支持多样化的营销活动。本项目旨在通过领域驱动设计（DDD）构建一个全面的营销平台，涵盖营销账户管理、用户返利、积分兑换等多种功能，为企业提供一站式的营销解决方案。
